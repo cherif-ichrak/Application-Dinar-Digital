@@ -1,0 +1,4 @@
+#Wed Jun 23 18:34:40 CEST 2021
+base.0=/home/ichrak/Application_Dinar_Digital/application_Mobile_Wallet/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
